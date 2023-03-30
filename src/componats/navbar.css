@@ -1,0 +1,18 @@
+.links{
+  height: 50px;
+  background-color: bisque;
+  display: flex;
+  font-size: 25px;
+  justify-content: center;
+padding-left: 10px;
+}
+.f{
+ padding-left: 30px;
+}
+
+
+.s{
+ padding-left: 30px;
+}.t{
+ padding-left: 30px;
+}
